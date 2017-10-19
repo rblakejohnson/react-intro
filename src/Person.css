@@ -1,0 +1,15 @@
+.person {
+  padding: 20px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+.old-person {
+  background: gray;
+  font-family: serif;
+}
+
+.young-person {
+  background: lime;
+  font-family: fantasy;
+}
