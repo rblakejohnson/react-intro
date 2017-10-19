@@ -1,6 +1,7 @@
-An intro to React using create-react-app.
+An intro to [React](https://reactjs.org/) using create-react-app.
 
 Example stateless component using arrow functions, const, template strings, modules and destructing...
+[es6/vanilla js](https://reactjs.org/docs/hello-world.html#a-note-on-javascript).
 
 
 ----------
